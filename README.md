@@ -52,6 +52,4 @@ I am Java, C++ developer from Belarus, Minsk
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrPropper911&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Propper911&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPropper911&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
