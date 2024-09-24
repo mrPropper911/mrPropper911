@@ -5,7 +5,13 @@
 Hi there 👋
 
 <div id="badges">
-    <img src="https://img.shields.io/badge/Vadim_Belyahovich-Telegram-blue?style=flat&logo=Telegram">
-    <img src="https://img.shields.io/badge/Vadim_Belyahovich-hh.ru-red?style=flat&logo=ReadMe&logoColor=red">
-    <img src="https://img.shields.io/badge/vadik123belyahovich@gmail.com-F9DB60?style=flat&logo=Gmail&logoColor=FF3333">
+    <a href="https://t.me/mrc1in">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram">
+    </a>
+    <a href="https://hh.ru/resume/b9b7f03aff0b2738e90039ed1f64694d365768">
+         <img src="https://img.shields.io/badge/Vadim_Belyahovich-hh.ru-red?style=flat&logo=ReadMe&logoColor=red">
+    </a>
+    <a href="mailto:vadik123belyahovich@gmail.com">
+        <img src="https://img.shields.io/badge/vadik123belyahovich@gmail.com-F9DB60?style=flat&logo=Gmail&logoColor=FF3333">
+    </a>
 </div>
